@@ -6,9 +6,10 @@ REQUIREMENTS :
 Python3 pip Lolcat
 Termux
 MKV Installed
+
 INSTALLATION ON [Termux] :
 
-```
+
 apt-get update -y
 apt-get upgrade -y
 pkg install python -y
